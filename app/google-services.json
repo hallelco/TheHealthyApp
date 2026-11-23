@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778545101759",
+    "project_id": "thehealthyapp-af58e",
+    "storage_bucket": "thehealthyapp-af58e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778545101759:android:bdf20bcde30f03afeaff0a",
+        "android_client_info": {
+          "package_name": "com.example.thehealthyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyXOLFpRMG1ITS8nqQLZuTUvgo6zHCkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
